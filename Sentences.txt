@@ -1,0 +1,227 @@
+================
+Random 001
+================
+[1s]
+I'm tired.
+Estoy cansada.[1s]
+
+I'm worn out.
+Estoy hecha polvo.[1s]
+
+I'm exhausted.
+Estoy agotada.[1s]
+
+I can't stand it anymore.
+Ya no aguanto.[1s]
+
+I can't take it anymore.
+Ya no doy mas.[1s]
+
+I have learned Spanish on my own.
+He aprendido español por mi cuenta.[1s]
+
+================
+Random 002
+================
+
+I like to have a drink while I shop.
+Me gusta tomar algo mientras compro.[1s]
+
+It can get cold at night.
+Por la noche puede hacer frío.[1s]
+
+Look out! You got me wet with your drink.
+¡Ten cuidado! Me mojaste con tu bebida.[1s]
+
+I like to drench my burrito in a lot of sauce.
+Мне нравится макать буррито в соус.
+Me gusta mojar el burrito con mucha salsa.[1s]
+
+I can wait.
+Puedo esperar.[1s]
+
+The best part is that you can make them at home.
+Lo mejor es que puedes hacerlos en tu casa.[1s]
+
+
+================
+Random 003
+================
+
+Твое тело не может бороться с этими вирусами.
+Tu cuerpo no puedo luchar contra esos virus.[1s]
+
+как сказать это по испански
+¿Cómo se dice eso en español?[1s]
+
+Так что я ухожу.
+Asi que me voy.[1s]
+
+Еще стоит учить испанский?
+Aun vale la pena aprender espanol?[1s]
+
+Как было бы, если бы мы могли смотреть телевизор в цвете?
+¿Cómo sería si pudiéramos ver la televisión en color?[1s]
+
+Расскажи мне о себе. Откуда ты?
+Hablame de ti. De donde eres?[1s]
+
+Я очень хорошо умею задавать вопросы.
+Se me da muy bien hacer preguntas.[1s]
+
+================
+Random 004
+================
+
+Плавать против течения.
+Nadar contra la corriente.
+
+Быть по горло.
+Estar hasta el cuello.
+
+Tirar la toalla.
+
+Sudar la gota gorda.
+
+Не стесняться в выражениях.
+No tener pelos en la lengua.
+
+Ir viento en popa.
+
+Как рыба в воде.
+Esta como peza el agua.
+
+================
+Random 005
+================
+
+Я думаю, что это будет очень весело.
+Yo pienso que va a ser muy divertido.[1s]
+
+================
+Seguir
+================
+
+I don't follow your logic.
+No sigo tu lógica.[1s]
+
+She is taking some online classes.
+Sigue algunas clases en línea.[1s]
+
+You can stop now and continue later.
+Puedes parar ahora y seguir más tarde.[1s]
+
+Please, go on!
+¡Siga, por favor![1s]
+
+================
+Poner
+================
+
+===============
+Meter
+===============
+
+================
+Hervir
+================
+
+================
+Huir
+================
+
+================
+Venir
+================
+
+================
+Decir
+================
+
+================
+Mentir
+================
+
+================
+Lanzar
+================
+
+================
+Conocer
+================
+
+================
+Sacudir
+================
+
+================
+Quedarse
+================
+
+================
+Rociar
+================
+
+================
+Cortar
+================
+
+================
+Estripar
+================
+
+================
+Cubrir
+================
+
+================
+Conseguir
+================
+
+================
+Pedir
+================
+
+He called to ask for more money.
+Llamó para pedir más dinero.<break time="2s"/>
+
+================
+Suponer
+================
+
+================
+Perder
+================
+
+================
+Perderse
+================
+
+================
+Llegar
+================
+
+================
+Traer
+================
+
+================
+Rasguño
+================
+
+================
+Vestir
+================
+
+================
+Averiguar
+================
+
+================
+Tratar
+================
+
+It is expected that one should treat the elderly with respect.
+Se espera que se trate con respeto a la gente mayor.[1s]
+
+================
