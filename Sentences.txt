@@ -43,7 +43,6 @@ Puedo esperar.[1s]
 The best part is that you can make them at home.
 Lo mejor es que puedes hacerlos en tu casa.[1s]
 
-
 ================
 Random 003
 ================
@@ -74,24 +73,22 @@ Random 004
 ================
 
 Плавать против течения.
-Nadar contra la corriente.
+Nadar contra la corriente.[1s]
 
-Быть по горло.
-Estar hasta el cuello.
+Я уже вернулся в отель.
+Ya estoy de vuelta en el hotel.[1s]
 
-Tirar la toalla.
+As for my hair, I prefer to wear it short.
+En cuanto al pelo, prefiero llevarlo corto.[1s]
 
-Sudar la gota gorda.
+It's not worth worrying.
+No vale la pena preocuparse.[1s]
 
-Не стесняться в выражениях.
-No tener pelos en la lengua.
+It's worth trying it.
+Vale la pena intentarlo.[1s]
 
-Ir viento en popa.
-
-Как рыба в воде.
-Esta como peza el agua.
-
-Ya estoy de vuelta en el hotel
+Не знаю, стоит ли оно столько труда.
+No sé si vale la pena tanto trabajo.[1s]
 
 ================
 Random 005
@@ -120,8 +117,8 @@ Please, go on!
 Poner
 ================
 
-===============
-Meter
+================
+Sacar
 ===============
 
 ================
@@ -157,7 +154,7 @@ Sacudir
 ================
 
 ================
-Quedarse
+Quedar
 ================
 
 ================
@@ -225,5 +222,9 @@ Tratar
 
 It is expected that one should treat the elderly with respect.
 Se espera que se trate con respeto a la gente mayor.[1s]
+
+================
+Estripar
+================
 
 ================
