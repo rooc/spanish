@@ -97,6 +97,15 @@ Random 005
 Я думаю, что это будет очень весело.
 Yo pienso que va a ser muy divertido.[1s]
 
+что случилось?
+¿Qué pasó?
+
+чем ты занята?
+¿Qué estás haciendo?
+
+Я довольна, потому что теперь у меня полный живот, и я приступаю к работе.
+contenta pues ahora con la barriga llena y me pongo a trabachar.
+
 ================
 Seguir
 ================
@@ -157,6 +166,15 @@ Sacudir
 Quedar
 ================
 
+Хорошо, ты можешь пожить у нас некоторое время.
+Muy bien, te puedes quedar con nosotros por un tiempo.
+
+Не ставь меня в неловкое положение перед моим другом.
+No me hagas quedar mal en frente de mi amigo.
+
+She's going to be staying with us for a while.
+Se va a quedar con nosotros por un tiempo.
+
 ================
 Rociar
 ================
@@ -182,7 +200,7 @@ Pedir
 ================
 
 He called to ask for more money.
-Llamó para pedir más dinero.<break time="2s"/>
+Llamó para pedir más dinero.[1s]
 
 ================
 Suponer
