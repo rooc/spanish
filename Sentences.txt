@@ -1,122 +1,122 @@
 ================
 Random 001
 ================
-[1s]
+
 I'm tired.
-Estoy cansada.[1s]
+Estoy cansada.
 
 I'm worn out.
-Estoy hecha polvo.[1s]
+Estoy hecha polvo.
 
 I'm exhausted.
-Estoy agotada.[1s]
+Estoy agotada.
 
 I can't stand it anymore.
-Ya no aguanto.[1s]
+Ya no aguanto.
 
 I can't take it anymore.
-Ya no doy mas.[1s]
+Ya no doy mas.
 
 I have learned Spanish on my own.
-He aprendido español por mi cuenta.[1s]
+He aprendido español por mi cuenta.
 
 ================
 Random 002
 ================
 
 I like to have a drink while I shop.
-Me gusta tomar algo mientras compro.[1s]
+Me gusta tomar algo mientras compro.
 
 It can get cold at night.
-Por la noche puede hacer frío.[1s]
+Por la noche puede hacer frío.
 
 Look out! You got me wet with your drink.
-¡Ten cuidado! Me mojaste con tu bebida.[1s]
+¡Ten cuidado! Me mojaste con tu bebida.
 
 I like to drench my burrito in a lot of sauce.
 Мне нравится макать буррито в соус.
-Me gusta mojar el burrito con mucha salsa.[1s]
+Me gusta mojar el burrito con mucha salsa.
 
 I can wait.
-Puedo esperar.[1s]
+Puedo esperar.
 
 The best part is that you can make them at home.
-Lo mejor es que puedes hacerlos en tu casa.[1s]
+Lo mejor es que puedes hacerlos en tu casa.
 
 ================
 Random 003
 ================
 
 Твое тело не может бороться с этими вирусами.
-Tu cuerpo no puedo luchar contra esos virus.[1s]
+Tu cuerpo no puedo luchar contra esos virus.
 
 как сказать это по испански
-¿Cómo se dice eso en español?[1s]
+¿Cómo se dice eso en español?
 
 Так что я ухожу.
-Asi que me voy.[1s]
+Asi que me voy.
 
 Еще стоит учить испанский?
-Aun vale la pena aprender espanol?[1s]
+Aun vale la pena aprender espanol?
 
 Как было бы, если бы мы могли смотреть телевизор в цвете?
-¿Cómo sería si pudiéramos ver la televisión en color?[1s]
+¿Cómo sería si pudiéramos ver la televisión en color?
 
 Расскажи мне о себе. Откуда ты?
-Hablame de ti. De donde eres?[1s]
+Hablame de ti. De donde eres?
 
 Я очень хорошо умею задавать вопросы.
-Se me da muy bien hacer preguntas.[1s]
+Se me da muy bien hacer preguntas.
 
 ================
 Random 004
 ================
 
 Плавать против течения.
-Nadar contra la corriente.[1s]
+Nadar contra la corriente.
 
 Я уже вернулся в отель.
-Ya estoy de vuelta en el hotel.[1s]
+Ya estoy de vuelta en el hotel.
 
 As for my hair, I prefer to wear it short.
-En cuanto al pelo, prefiero llevarlo corto.[1s]
+En cuanto al pelo, prefiero llevarlo corto.
 
 It's not worth worrying.
-No vale la pena preocuparse.[1s]
+No vale la pena preocuparse.
 
 It's worth trying it.
-Vale la pena intentarlo.[1s]
+Vale la pena intentarlo.
 
 Не знаю, стоит ли оно столько труда.
-No sé si vale la pena tanto trabajo.[1s]
+No sé si vale la pena tanto trabajo.
 
 ================
 Random 005
 ================
 
 Я думаю, что это будет очень весело.
-Yo pienso que va a ser muy divertido.[1s]
+Yo pienso que va a ser muy divertido.
 
 что случилось?
-¿Qué pasó?[1s]
+¿Qué pasó?
 
 чем ты занята?
-¿Qué estás haciendo?[1s]
+¿Qué estás haciendo?
 
 Я довольна, потому что теперь у меня полный живот, и я приступаю к работе.
-contenta pues ahora con la barriga llena y me pongo a trabachar.[1s]
+Contenta pues ahora con la barriga llena y me pongo a trabachar.
 
 Я не жалуюсь.
-No me quejo.[1s]
+No me quejo.
 
 Не наступай на пол, он только что вымыт!
-¡No pises el suelo; que está recién fregado![1s]
+¡No pises el suelo; que está recién fregado!
 
 Жить в украине не дорого.
-Vivir en Ucrania no es caro.[1s]
+Vivir en Ucrania no es caro.
 
 I'm still learning spanish and it is difficult for me to understand quick speech.
-Todavía estoy aprendiendo español y me cuesta entender el habla rápida.[1s]
+Todavía estoy aprendiendo español y me cuesta entender el habla rápida.
 
 ================
 Random 006
@@ -142,154 +142,116 @@ Random 007
 ================
 
 Would you marry me? - Of course!
-¿Te casarías conmigo? - ¡Por supuesto![1s]
+¿Te casarías conmigo? - ¡Por supuesto!
 
 On one hand I do want to go, on the other I don’t have time.
-Por un lado sí quiero ir, por el otro no tengo tiempo.[1s]
+Por un lado sí quiero ir, por el otro no tengo tiempo.
 
 I'm not going to put up with this situation much longer.
-No voy a soportar esta situación mucho más.[1s]
+No voy a soportar esta situación mucho más.
 
 I had lunch at an Italian restaurant.
-Almorcé en un restaurante italiano.[1s]
+Almorcé en un restaurante italiano.
 
 ================
-Seguir
+Phrases 001
 ================
 
-I don't follow your logic.
-No sigo tu lógica.[1s]
+I have everything you want.
+Tengo todo lo que quieres.
 
-She is taking some online classes.
-Sigue algunas clases en línea.[1s]
+That's not why I'm here.
+Eso no es por lo que estoy aquí.
 
-You can stop now and continue later.
-Puedes parar ahora y seguir más tarde.[1s]
+It was so good.
+Estaba tan bien.
 
-Please, go on!
-¡Siga, por favor![1s]
+Sí que lo quiero.
 
-================
-Poner
-================
+Everything went well.
+Todo salió bien.
 
 ================
-Sacar
+Phrases 002
+================
+
+This is so good.
+Esto está tan bueno.
+
+I know why it is this way.
+Sé por qué es así.
+
+That's all I know.
+Eso es todo lo que sé.
+
+That is all I have.
+Eso es todo lo que tengo.
+
+I think it's around here.
+Creo que está por aquí.
+
+================
+Phrases 003
+===============
+
+
+
+================
+Phrases 004
 ===============
 
 ================
-Hervir
+Phrases 005
+===============
+
+================
+Phrases 006
 ================
 
 ================
-Huir
+Phrases 007
+===============
+
+================
+Phrases 008
+===============
+
+================
+Phrases 009
+===============
+
+================
+Phrases 010
+===============
+
+================
+Phrases 011
+===============
+
+================
+Phrases 012
+===============
+
+================
+Phrases 013
+===============
+
+================
+Phrases 014
 ================
 
 ================
-Venir
+Phrases 015
 ================
 
 ================
-Decir
+Phrases 016
 ================
 
 ================
-Mentir
+Phrases 017
 ================
 
 ================
-Lanzar
-================
-
-================
-Conocer
-================
-
-================
-Sacudir
-================
-
-================
-Quedar
-================
-
-Хорошо, ты можешь пожить у нас некоторое время.
-Muy bien, te puedes quedar con nosotros por un tiempo.
-
-Не ставь меня в неловкое положение перед моим другом.
-No me hagas quedar mal en frente de mi amigo.
-
-She's going to be staying with us for a while.
-Se va a quedar con nosotros por un tiempo.
-
-================
-Rociar
-================
-
-================
-Cortar
-================
-
-================
-Estripar
-================
-
-================
-Cubrir
-================
-
-================
-Conseguir
-================
-
-================
-Pedir
-================
-
-He called to ask for more money.
-Llamó para pedir más dinero.[1s]
-
-================
-Suponer
-================
-
-================
-Perder
-================
-
-================
-Perderse
-================
-
-================
-Llegar
-================
-
-================
-Traer
-================
-
-================
-Rasguño
-================
-
-================
-Vestir
-================
-
-================
-Averiguar
-================
-
-================
-Tratar
-================
-
-It is expected that one should treat the elderly with respect.
-Se espera que se trate con respeto a la gente mayor.[1s]
-
-================
-Estripar
-================
-
+Phrases 018
 ================
